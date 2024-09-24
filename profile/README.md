@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--### We are SoundSpottr.com - the best platform th explore new music and podcasts straight into your library-->
+# We are SoundSpottr.com - the best platform th explore new music and podcasts straight into your library
 
 
 
